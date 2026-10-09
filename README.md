@@ -1,2 +1,14 @@
 # Memento
-App de estudio tipo Anki con tarjetas paramétricas. Mentoría de programación con plan por fases (Go v1.0, Rust/WASM v2.0).
+
+[English](README.md) | [Español](README.es.md) | [Italiano](README.it.md)
+
+A spaced-repetition flashcard app with varied card types, including
+parametric cards whose values change on every review.
+
+## Status
+
+Phase 0: project setup. Nothing to run yet.
+
+## License
+
+To be decided.
