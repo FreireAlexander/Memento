@@ -1,3 +1,4 @@
+<!-- Translated from README.md at commit b3ced3e -->
 # Memento
 
 [English](README.md) | [Español](README.es.md) | [Italiano](README.it.md)
@@ -11,5 +12,3 @@ Fase 0: configuraciones de proyecto. Nada ejecutable por el momento.
 ## Licencia
 
 Por decidir.
-
-<!-- Translated from README.md at commit b3ced3e -->

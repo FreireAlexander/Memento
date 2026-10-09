@@ -1,15 +1,14 @@
+<!-- Translated from README.md at commit b3ced3e -->
 # Memento
 
 [English](README.md) | [Español](README.es.md) | [Italiano](README.it.md)
 
-Un'applicazione di flashcard basata sulla ripetizione dilazionata e dotata di diverse tipologie di schede, incluse quelle parametriche con valori che variano a ogni sessione di ripasso.
+Un'applicazione di flashcard basata sulla ripetizione spaziata (o Space Rpetition System in inglese) e dotata di diverse tipologie di schede, incluse quelle parametriche con valori che variano a ogni sessione di ripasso.
 
 ## Stato
 
-Fase 0: impostazioni di progetto. No eseguibile al momento.
+Fase 0: Configurazione del progetto. Ancora nulla da eseguire.
 
-## Licensa
+## Licenza
 
 Da decidire.
-
-<!-- Translated from README.md at commit b3ced3e -->
